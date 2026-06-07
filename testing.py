@@ -1,2 +1,8 @@
-print("Hello Dosto, kya haal chal , kaise hai sab ")
-print("My name is Devendra")
+def hello():
+    """
+    this is demo
+    """
+    return "My name is Devendra"
+
+
+hello()
