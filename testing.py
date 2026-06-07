@@ -5,7 +5,7 @@ This module demonstrates a simple hello function.
 
 def hello():
     """
-    Return a simple greeting message.
+    this is demo 
     """
     return "My name is Devendra"
 
